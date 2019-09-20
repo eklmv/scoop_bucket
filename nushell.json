@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "description": "A modern shell for the GitHub era",
+    "homepage": "https://github.com/nushell/nushell",
+    "license": {
+        "identifier": "MIT",
+        "url": "https://github.com/nushell/nushell/blob/master/LICENSE"
+    },
+    "url": "https://github.com/nushell/nushell/releases/download/0.2.0/nu_0_2_0_windows.zip",
+    "env_add_path": ".",
+    "bin": "nu.exe",
+    "shortcuts": [
+        [
+            "nu.exe",
+            "Nu Shell"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": "https://github.com/nushell/nushell/releases/download/$version/nu_$underscoreVersion_windows.zip"
+}
