@@ -1,13 +1,13 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "A modern shell for the GitHub era",
     "homepage": "https://github.com/nushell/nushell",
     "license": {
         "identifier": "MIT",
         "url": "https://github.com/nushell/nushell/blob/master/LICENSE"
     },
-    "url": "https://github.com/nushell/nushell/releases/download/0.2.0/nu_0_2_0_windows.zip",
-    "hash": "e31695d2c62585a17c192e2e46a908f42774f77016e8adc7de5b5ce965932846",
+    "url": "https://github.com/nushell/nushell/releases/download/0.3.0/nu_0_3_0_windows.zip",
+    "hash": "73f5ac08c3c3fe1f81ec45bcae95985068f859d3aceb1267e88b924317e227f7",
     "env_add_path": ".",
     "bin": "nu.exe",
     "shortcuts": [
